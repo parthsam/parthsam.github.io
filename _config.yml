@@ -24,3 +24,12 @@ footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
+
+
+social-network-links:
+  email: "parthsam@buffalo.edu"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  
+  github: daattali
+  linkedin: www.linkedin.com/in/parth-desai1796
+ 
