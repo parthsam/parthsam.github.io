@@ -1,16 +1,24 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Parth Desai
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+4547 Chestnut Ridge Rd, Apt 209, Buffalo, New York, 14228 | 716-579-6156 | [parthsam@buffalo.edu](mailto:parthsam@buffalo.edu)
 
-What else do you need?
+### Education
+**PhD Candidate, Materials Science**  
+The State University of New York at Buffalo, US  
+*Expected Summer 2024*
 
-### My story
+**Master of Science, Materials Science**  
+The State University of New York at Buffalo, US  
+*Fall 2020*
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Bachelor of Engineering, Chemical Engineering**  
+University of Mumbai, India  
+*Spring 2019*
+
+### Research Interests
+Data-Driven Materials Characterization, Machine Learning in Materials Design, Advanced Analytical Techniques, Feature Extraction and Dimensionality Reduction, Materials Informatics, Algorithm Development, Integration of Experimental and Computational Data, Automation in Materials Science
