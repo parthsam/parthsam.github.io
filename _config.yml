@@ -9,7 +9,8 @@ author:
   linkedin: "www.linkedin.com/in/parth-desai1796"
 
 
-
+navbar-links:
+  About Me: "aboutme"
 
 
 page-col: "#FFFFFF"
