@@ -3,9 +3,7 @@ layout: page
 title: About me
 ---
 
-## Parth Desai
 
-4547 Chestnut Ridge Rd, Apt 209, Buffalo, New York, 14228  716-579-6156  [parthsam@buffalo.edu](mailto:parthsam@buffalo.edu)
 
 ### Education
 **PhD Candidate, Materials Science**  
