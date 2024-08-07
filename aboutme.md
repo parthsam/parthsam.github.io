@@ -1,9 +1,13 @@
 ---
 layout: page
 title: About me
+css: /assets/css/custom.css
 ---
 
 
+
+<div class="contact-info">
+ </div>
 
 ### Education
 **PhD Candidate, Materials Science**  
@@ -19,4 +23,13 @@ University of Mumbai, India
 *Spring 2019*
 
 ### Research Interests
-Data-Driven Materials Characterization, Machine Learning in Materials Design, Advanced Analytical Techniques, Feature Extraction and Dimensionality Reduction, Materials Informatics, Algorithm Development, Integration of Experimental and Computational Data, Automation in Materials Science
+<ul>
+  <li>Data-Driven Materials Characterization</li>
+  <li>Machine Learning in Materials Design</li>
+  <li>Advanced Analytical Techniques</li>
+  <li>Feature Extraction and Dimensionality Reduction</li>
+  <li>Materials Informatics</li>
+  <li>Algorithm Development</li>
+  <li>Integration of Experimental and Computational Data</li>
+  <li>Automation in Materials Science</li>
+</ul>
